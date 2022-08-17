@@ -8,7 +8,7 @@ Mobile Responsive Homepage for Paytm
 
 
 ## Deployed link
-- [DEPLOYED WEBPAGE]()
+- [DEPLOYED WEBPAGE](https://paytm-homepage.netlify.app/)
 
 
 ## Screenshot
